@@ -1,0 +1,58 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Java
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+out/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Generated data and model files
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.gguf
+
+# Test and coverage output
+.coverage
+htmlcov/
+coverage/
