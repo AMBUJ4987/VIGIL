@@ -161,8 +161,8 @@ VIGIL/
 |---|---|
 | Ambuj | Project Lead & Intelligence Core |
 | Parul | Fault Detection & Experimentation |
-| Stuti | Monitoring & Observability |
-| Vishisht | Backend Integration, Storage & Dashboard |
+| Stuti | Backend Integration, Storage & Dashboard |
+| Vishisht | Monitoring & Observability |
 | Aviral | Recovery Executor & Verification |
 
 ## Current Status
